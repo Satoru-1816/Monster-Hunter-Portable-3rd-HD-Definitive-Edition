@@ -1,5 +1,6 @@
 # Monster Hunter Portable 3rd HD: Definitive Edition
-A pack that improves the resolution of textures either by upscaling them or taken directly from 3U / 3tri
+A pack that improves the resolution of textures either by upscaling them or taken directly from 3U / 3tri.
+
 The main goal right now is upscaling all female armors, felyne armors and enhancing the UI, as well as adding passive monsters' textures.
 
 As of january 11th, 2023, low rank female armors are 70% done. Textures will be uploaded as days go by.
